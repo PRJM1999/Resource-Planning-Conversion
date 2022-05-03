@@ -4,4 +4,6 @@ Script cleans and converts spreadsheet data from months to weeks in order to be 
 
 ## See Also
 
-This is a test and first submission to GitHub to test access.
+This is my first submission to GitHub to test access.
+
+The script was written with time in mind rather than quality.
